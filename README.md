@@ -1,2 +1,2 @@
 # Practicing Programming in C
-Daily work learning C on my own.
+Practice problems to learn C on my own.
